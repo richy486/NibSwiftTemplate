@@ -32,6 +32,7 @@ class ___FILEBASENAME___ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    // MARK: - Actions
 
     /*
     // MARK: - Navigation
