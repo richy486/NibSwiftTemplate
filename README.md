@@ -9,3 +9,5 @@ UIViewController and UIView for programmatic views.
 Add the `.xctemplate` folders to:
 
     ~/Library/Developer/Xcode/Templates/File Templates/
+
+Or run `install.sh`.
