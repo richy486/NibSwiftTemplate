@@ -1,0 +1,1 @@
+rsync -r --verbose --exclude .git --exclude install.sh --exclude README.md ./* ~/Library/Developer/Xcode/Templates/"File Templates"/
