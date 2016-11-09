@@ -33,6 +33,8 @@ class ___FILEBASENAME___View: UIView {
             // Setup frames or constraints
         }
     }
+    
+    // MARK: - Actions
 
     /*
     // Only override draw() if you perform custom drawing.
