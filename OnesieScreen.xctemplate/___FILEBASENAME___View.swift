@@ -14,6 +14,8 @@ class ___FILEBASENAME___View: UIView {
     
     internal var hasSetupConstraints = false
     
+    // MARK: - View lifecycle
+    
     override init(frame: CGRect) {
         super.init(frame: frame)
         
