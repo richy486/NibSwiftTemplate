@@ -10,7 +10,7 @@ import UIKit
 
 class ___FILEBASENAME___View: UIView {
     
-    // MARK - Subviews lazy var
+    // MARK: - Subviews lazy var
     
     internal var hasSetupConstraints = false
     
