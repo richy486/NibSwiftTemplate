@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ___FILEBASENAME___View: UIView {
+class ___FILEBASENAME___: UIView {
     
     // MARK: - Subviews lazy var
     
