@@ -13,12 +13,10 @@ class ___FILEBASENAME___ViewController: UIViewController {
     // MARK: - View
     
     var contentView: ___FILEBASENAME___View {
-        get {
-            guard let contentView = self.view as? ___FILEBASENAME___View else {
-                fatalError("Cannot create content view")
-            }
-            return contentView
+        guard let contentView = self.view as? ___FILEBASENAME___View else {
+            fatalError("Cannot create content view")
         }
+        return contentView
     }
     
     // MARK: - View lifecycle

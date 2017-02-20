@@ -10,7 +10,7 @@ import UIKit
 
 class ___FILEBASENAME___: UITableViewCell {
     
-    // MARK: - Subviews lazy var, (add to contentView)
+    // MARK: - Subviews var, (add to contentView)
     
     // MARK: - View lifecycle
     
