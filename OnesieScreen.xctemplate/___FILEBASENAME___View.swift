@@ -10,7 +10,7 @@ import UIKit
 
 class ___FILEBASENAME___View: UIView {
     
-    // MARK: - Subviews lazy var
+    // MARK: - Subviews var
     
     // MARK: - View lifecycle
     
