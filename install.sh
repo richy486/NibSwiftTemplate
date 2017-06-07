@@ -1,1 +1,1 @@
-rsync -r --verbose --exclude .git --exclude install.sh --exclude README.md ./* ~/Library/Developer/Xcode/Templates/"File Templates"/
+rsync -r --verbose --exclude .git --exclude install.sh --exclude README.md --exclude TemplateIcon@2x.png ./* ~/Library/Developer/Xcode/Templates/"File Templates"/
